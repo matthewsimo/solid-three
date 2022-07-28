@@ -51,7 +51,6 @@
     "preset": "scripts/jest/node"
   },
   "dependencies": {
-    "@types/three": "^0.135.0",
     "zustand": "^3.6.7"
   }
 }
